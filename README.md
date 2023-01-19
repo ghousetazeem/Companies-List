@@ -1,9 +1,9 @@
 
 # Top Companies List
 
-A brief description of what this project does and who it's for
+This repository can save you a lot of time while applying for the jobs to tech companies. It have a variety of companies that you don't need to search individually on the internet. Just come here and you are good to go.
 
-![What is this](image.png)
+![What is this](Img.png)
 
 ## Contributing
 
